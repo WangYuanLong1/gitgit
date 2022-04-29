@@ -6,6 +6,8 @@ public class gitgit {
         System.out.println("hot-fix hello git 1");
         System.out.println("master merge conflict");
         System.out.println("hot-fix merge conflict");
+        System.out.println("master  push test");
+
 
 
 
