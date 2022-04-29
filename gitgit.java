@@ -5,7 +5,7 @@ public class gitgit {
         System.out.println("hello git 3");
         System.out.println("hot-fix hello git 1");
         System.out.println("master merge conflict");
-
+        System.out.println("hot-fix merge conflict");
 
 
 
