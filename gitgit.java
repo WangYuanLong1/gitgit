@@ -7,6 +7,7 @@ public class gitgit {
         System.out.println("master merge conflict");
         System.out.println("hot-fix merge conflict");
         System.out.println("master  push test");
+        System.out.println("github pull test");
 
 
 
